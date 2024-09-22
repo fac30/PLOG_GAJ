@@ -130,8 +130,8 @@ Modules:
 In Node.js, you use require to load modules (chunks of code from other files or libraries).
 In the browser, you traditionally couldn’t do this (though modern JavaScript now has import/export to handle modules).
 
-*It was difficult to grasp the project as it moved at such a fast pace. I need to improve my skills in reading documentation and breaking down what is being asked of me.
-*I should attempt using OpenAI, as other groups' presentations looked interesting, particularly in how they gave the bot prompts and characteristics.
+* It was difficult to grasp the project as it moved at such a fast pace. I need to improve my skills in reading documentation and breaking down what is being asked of me.
+* I should attempt using OpenAI, as other groups' presentations looked interesting, particularly in how they gave the bot prompts and characteristics.
   
 
 ## Feedback (For CF's)

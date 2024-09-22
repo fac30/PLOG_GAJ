@@ -30,7 +30,7 @@ async function getUser(username) {
 ```
 *Using what I learned about asynchronous programming from the previous week, I gained an understanding of how await, the method, and try and catch work. By using my team's skeleton for slash commands and pair programming, I was able to create a /meme command that generates a random meme.
 
-```
+```js
 // Import the SlashCommandBuilder from discord.js to create a slash command
 import { SlashCommandBuilder } from 'discord.js';
 
@@ -74,7 +74,7 @@ export default {
 };
 ```
 * I tried creating events that would allow users to create private channels. However, I wasn’t able to figure out the issue with this. I probed ChatGPT extensively and looked for solutions regarding permissions on Discord, but I couldn’t find a solution to the problem. This function is based on the assumption that everyone has permission to use the bot, but I wasn’t able to achieve this using the Discord library.
-```
+```js
 
 
 			try {

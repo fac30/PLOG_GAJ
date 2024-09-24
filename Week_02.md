@@ -135,6 +135,14 @@ In the browser, you traditionally couldn’t do this (though modern JavaScript n
   
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Good improvement on your progress log. It is great that you are focusing on understanding the roots instead of building your skills on weak foundations.
+
 > [*Even better if*]
+
+Try to make your code snippets more concise. Focus on showcasing only the specific parts you want to reinforce. Even if it's a segment of a larger function, there's no need to include the entire block of code. This approach will help highlight key concepts more effectively.

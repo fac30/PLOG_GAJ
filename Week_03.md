@@ -143,6 +143,15 @@ I still need to sit down and try to understand what's going on with the code, es
 ```
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+You really digged into the Spotify API, that is a great example there. I also like that looks like you understand a bit better async code.
+
 > [*Even better if*]
+
+You mention that you want to revisit "aspects like valence, energy, and danceability" those are some spotify specific parameters, so may not worth to spend much there. I would advice to solidify the basics instead.
+Also try to keep your code snippets shorter

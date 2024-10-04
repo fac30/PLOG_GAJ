@@ -11,12 +11,11 @@ Answer the following questions considering the learning outcomes for
 - **Areas for Improvement**  
   I’m still trying to grasp the concepts of **states**, **props**, and **context** in React. To improve my understanding, I plan to:
   - Revisit the TypeScript documentation.
-  - Discuss these topics with my manager.
-  - Look into the React documentation, as it is well-documented and helpful for learning.
+  - Discuss these topics with my manager been suggested to look into the React documentation, as it is well-documented and helpful for learning. Creating tic-tac-toe etc. learning states, effects, context 
 
 - **Achievements**  
   - **Creating Interfaces**  
-    One of my achievements this week was defining an interface for component props:
+    One of my achievements this week was defining an interface for component props in which i took a driver navigator approach with the mentor who had a few hours:
     ```typescript
     export interface LabelProps {
         htmlFor: string;

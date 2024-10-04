@@ -68,8 +68,11 @@ Answer the following questions considering the learning outcomes for
      "noUnusedLocals": true,
      "noImplicitThis": true
   }
+   ```
 
-
+  - I'll also be doing some node work in the meantime to truly wrap my head around backend. As i like the idea of backend Which just seems so facinating but difficult as of right now. Creating a Neighbour hoood watch. Using get Requests.
+  i understand how api works a bit better now. Creating my own Api is something i want to give a go.
+    
 ## Feedback (For CF's)
 > [**Course Facilitator name**]  
 > [*What went well*]  

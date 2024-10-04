@@ -52,7 +52,6 @@ Answer the following questions considering the learning outcomes for
 
   - **CSS Skills with Tailwind**  
     Although Tailwind CSS simplifies styling with shorthand classes, I realized I still have a lot to learn about CSS. This is something I will work on in the future. 
-    ![Image of UI Components](https://github.com/user-attachments/assets/9d2a8120-a9ce-4d78-88e1-9a614fa5f928)
 
 - **Understanding TypeScript Config Files**  
   I'm learning how TypeScript configuration files work. Here are some key configurations I’ve been focusing on:

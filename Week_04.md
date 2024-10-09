@@ -73,6 +73,14 @@ Answer the following questions considering the learning outcomes for
   i understand how api works a bit better now. Creating my own Api is something i want to give a go.
     
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Well done, you gave some good examples and looks like you are building solid roots
+
 > [*Even better if*]
+
+It would be good to relate a bit more the code snippets with whatever you are explaining. For example, instead of saying "I've been working on this" and pasting the config file, you could paste only the most important entries and give a very brief explanation. It could even be just comments on the code

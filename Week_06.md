@@ -29,6 +29,6 @@ export const getArtistById = (req: Request, res: Response) => {
 -i'll like to work with dani on front end so i have a better understanding on hooks in react. As some teams show cased react router context. 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
-> [*Even better if*]
+> [**Course Facilitator name**]
+Alexander
+It is great that you are getting some knowdlege on SQL, you mentioned that you like BE, so SQL it's a must for you. You could add some code snippets and explain some basic concepts like what is a Foreign Key, how are the relationships actually built, etc

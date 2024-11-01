@@ -7,13 +7,15 @@ Make sure to record evidence of your processes. You can use code snippets, scree
 Do not fill in the feedback section. The Founders and Coders team will update this with feedback on your progress.
 
 ## Assessment
- ### 1. Show evidence of some of the learning outcomes you have achieved this week.
-> **[Learning outcomes...]**  
-> [your evidence here]
+- Worked on a login/logout model that would hash the password for users registration login details. using the configured Backend JWT authentication.
+- this login would seed into the dadatabase.
+- getting some familiarity with react.
 
+ !ill add screenshots and code later working on the workshops currently
  ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
-> [**Learning outcome...**]  
-> [your evidence here]
+ - i've been saying this week by week but definetly go over react with the hooks. Trying to understand parent/child siblings relationships.
+ - implementing a cart functionality when user adds to basket. the items would be displayed on the cart model from where ever.
+ - whenever item is added to cart it would take away from the quantity on the database. 
 
 ## Feedback (For CF's)
 > [**Course Facilitator name**]  

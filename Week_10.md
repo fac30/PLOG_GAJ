@@ -8,10 +8,15 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 ## Assessment
  ### 1. Show evidence of some of the learning outcomes you have achieved this week.
+ 
 -Week was good. In my team i had build the minimal api folder structure. Following the minimal API. 
+
 -Also Following the minimal API workshop
+
 -Battling to understand Object, instances, properties, methods. Somewhat come around the idea.
+
 -Lightly delving into List<T> arrays. 
+
 -Prompting chatgpt to explain to me what's going on. which are are accessors used  to  get and set  properties of said value in a class. 
 
 ```csharp

@@ -18,6 +18,14 @@ Do not fill in the feedback section. The Founders and Coders team will update th
  - whenever item is added to cart it would take away from the quantity on the database. 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Not enough concrete evidence provided to evaluate achievements. While authentication work is mentioned, no code examples are shown to demonstrate implementation.
+
 > [*Even better if*]
+
+Include promised code examples and screenshots. Show specific React hooks usage that you struggled with. Provide actual attempts at cart functionality implementation rather than just describing what you wanted to do.

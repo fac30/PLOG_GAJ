@@ -70,6 +70,14 @@ app.Run();
 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Basic understanding of Minimal API setup in C# with endpoint mapping. Good initiative to use ChatGPT as a learning tool to understand C# concepts.
+
 > [*Even better if*]
+
+Show your actual understanding of objects and methods with code examples, rather than just mentioning them. The pizza API example is templated - demonstrate your own modifications or customizations.

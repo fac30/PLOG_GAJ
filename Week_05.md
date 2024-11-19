@@ -57,6 +57,14 @@ searching for this error.
 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Clean implementation of a reusable Radio component with TypeScript interfaces and proper state management. Good component separation and props handling.
+
 > [*Even better if*]
+
+Document specific AWS credential setup attempts and error messages from your failed deployments. Instead of just mentioning ChatGPT usage, show what solutions you tried that didn't work.
